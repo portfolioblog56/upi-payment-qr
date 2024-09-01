@@ -1,6 +1,6 @@
 const themeToggleBtn = document.getElementById("themeToggle");
 const html = document.documentElement;
-const hostName = "https://upi-payment-o5hf4zql2-portfolioblog56s-projects.vercel.app"; // Make sure this is correct
+const hostName = "https://upi-payment-qr.vercel.app"; // Make sure this is correct
 
 themeToggleBtn.addEventListener("click", function () {
   html.classList.toggle("dark");
